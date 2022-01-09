@@ -184,6 +184,12 @@ nav {
   margin: auto;
   margin-top: 5rem;
 }
+.adjust {
+  margin-top: 5rem;
+  border: #00daf4 solid 5px;
+  border-radius: 310px;
+}
+
 #intro .intro-content {
   display: grid;
   grid-template-columns: 70% 50%;
