@@ -87,6 +87,27 @@ ul {
   -webkit-touch-callout: none;
   user-select: none;
 }
+.project {
+  background: #17202a;
+  color: #c1c2df;
+  font-family: "Space Mono", sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgba(0, 218, 244, 0.1);
+  -webkit-touch-callout: none;
+  user-select: none;
+  border: #00daf4 solid 1px;
+  border-radius: 10px;
+  padding: 0% 3%;
+  margin-right: 1%;
+  background-color: #00d8df;
+  color: #17202a;
+}
+.project:hover {
+  background-color: #c1c2df;
+  color: #17202a;
+}
 .section-header::after {
   position: absolute;
   content: "";
