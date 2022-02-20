@@ -367,7 +367,9 @@ nav {
 #projects .projects-body .ptype-4 {
   background: url(../media/advancedSuduko.png) no-repeat center center/cover;
 }
-
+#projects .projects-body .ptype-5 {
+  background: url(../media/RoyalBrother.png) no-repeat center center/cover;
+}
 #projects .projects-body .projects-body-img a {
   border-radius: 5px;
   display: flex;
